@@ -1,0 +1,62 @@
+body {
+    font-family: Helvetica, Geneva, sans-serif;
+    
+}
+
+div#pagewrap {
+    max-width: 1500px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+        
+}
+
+div#topbar {
+    max-width: 1500px;
+    width: 100%;
+    float: right;
+    background-color: #d8f2ff;
+    
+}
+
+h1#name {
+    font-family: Helvetica, Geneva, sans-serif;
+    margin-left: 1%;
+    
+}
+
+h2#contact {
+    font-weight: lighter;
+    margin-left: 1%;
+    font-size: 16pt;
+    
+}
+
+div#middlebar{
+    margin-left: 1%;
+    align-content: center;
+    
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    font-family: verdana, geneva, sans-serif;
+}
+
+a#link2 {
+    margin-left: 20px;
+    
+}
+
+span#describe {
+    font-weight: lighter;
+    
+}
+p.imgSectionLabel {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    
+}
